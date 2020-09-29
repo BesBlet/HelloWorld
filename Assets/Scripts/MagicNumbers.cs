@@ -8,7 +8,7 @@ public class MagicNumbers : MonoBehaviour
 	public Text Task;
 	public Text YouNumber;
 	public Text YouMove;
-	int move = -1;
+	int move;
 	int min = 1;
 	int max = 1000;
 	int guess;
@@ -45,7 +45,7 @@ public class MagicNumbers : MonoBehaviour
 		}
         else if (Input.GetKeyDown(KeyCode.Space))
         {
-	        move = -1;
+	        move = 0;
 	        min = 1;
 	        max = 1000;
 	        Start();

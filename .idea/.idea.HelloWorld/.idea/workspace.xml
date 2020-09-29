@@ -15,6 +15,7 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/YouNumber.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MagicNumbers.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/JustNumbers.cs" />
       </list>
     </option>
   </component>
@@ -62,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601372692254</updated>
-      <workItem from="1601372711033" duration="9473000" />
+      <workItem from="1601372711033" duration="14764000" />
     </task>
     <servers />
   </component>

@@ -9,6 +9,7 @@
         <e p="Scripts" t="Include">
           <e p="Enemy.cs" t="Include" />
           <e p="HelloWorld.cs" t="Include" />
+          <e p="JustNumbers.cs" t="Include" />
           <e p="MagicNumbers.cs" t="Include" />
           <e p="Player.cs" t="Include" />
         </e>
